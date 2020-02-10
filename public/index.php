@@ -1,3 +1,5 @@
 <?php
- echo "working good";
+
+ require_once '../app/bootstrap.php';
+ $core=new Core();
 ?>
